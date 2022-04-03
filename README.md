@@ -1,6 +1,10 @@
 # adventureMMO
 An adventure MMO
 
+Unreal version: 4.24.3
+
+[Kanban Board](https://trello.com/invite/b/FSpFBiA7/87d23fc8e5c465b70f4200d4d0662a53/adventuremmo)
+
 ## Settings to change while cloning for the first time
 - Put "Run Dedicated Server" to on
 
